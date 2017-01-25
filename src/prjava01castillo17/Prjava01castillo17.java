@@ -11,11 +11,11 @@ public class Prjava01castillo17 {
             bw.write("<html>");bw.newLine();
             bw.write("  <head>");bw.newLine();
             bw.write("    <title>");bw.newLine();
-            bw.write("      Nova p&agrave;gina  web de castillo17");bw.newLine();
+            bw.write("      Nova p&agrave;gina web de castillo17");bw.newLine();
             bw.write("    </title>");bw.newLine();
             bw.write("  </head>");bw.newLine();
             bw.write("  <body>");bw.newLine();
-            bw.write("    Nova p&agrave;gina web de castillo17");bw.newLine();
+            bw.write("    Nova p&agrave;gina web de castillo17 </br>DAW2 UF4 pr&agrave;ctica");bw.newLine();
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
